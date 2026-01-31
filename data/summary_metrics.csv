@@ -1,0 +1,17 @@
+metric,value
+total_posts,20148
+total_annotators,253
+total_annotations,60444
+krippendorff_alpha,0.4597
+full_agreement_rate,48.9
+partial_agreement_rate,46.6
+no_agreement_rate,4.6
+majority_normal_pct,40.5
+majority_offensive_pct,28.6
+majority_hatespeech_pct,30.9
+annotator_mean_agreement,81.1
+strict_annotators_pct,18.1
+lenient_annotators_pct,43.4
+balanced_annotators_pct,38.6
+top_rca_category,Group References
+samples_with_rationales_pct,56.6
